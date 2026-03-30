@@ -47,7 +47,7 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-space3dportfolio-%2300FFB3?style=for-the-badge&logo=netlify&logoColor=white)](https://space3dportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-space3dportfolio-%2300FFB3?style=for-the-badge&logo=)](https://space3dportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-/)
 [![Instagram](https://img.shields.io/badge/@thakurxnipun-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thakurxnipun/)
 [![Instagram](https://img.shields.io/badge/@desireofrana-%23C13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/desireofrana/)
