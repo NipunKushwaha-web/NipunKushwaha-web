@@ -175,6 +175,6 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 <div align="center">
 
-**Thanks for visiting! Check out my [3D Portfolio 🌌](https://space3dportfolio.netlify.app)**
+**Thanks for visiting! Check out my Projects**
 
 </div>
