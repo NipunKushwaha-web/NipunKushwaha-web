@@ -50,6 +50,9 @@ fun_fact: "I build portfolios in space because the web needs more gravity 🚀"
 ### 🎨 Frontend & 3D
 <img src="https://skillicons.dev/icons?i=react,threejs,nextjs,tailwind,figma,vite" />
 
+### 🖌️ Design
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
+
 ### ⚙️ Backend & Mobile
 <img src="https://skillicons.dev/icons?i=nodejs,flutter,express,nestjs,fastapi,laravel" />
 
