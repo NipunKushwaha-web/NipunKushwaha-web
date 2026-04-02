@@ -20,7 +20,7 @@
 ## 👾 About Me
 
 ```yaml
-name:      Nipun Kushwaha
+name:      Nipun Kachwaha
 alias:     thakurxnipun / desireofrana
 role:      Full-Stack Engineer & Creative Technologist
 location:  Delhi, India · UTC+05:30
