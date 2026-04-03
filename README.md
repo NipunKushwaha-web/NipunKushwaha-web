@@ -46,7 +46,7 @@ fun_fact: "I build Projects in space because the tech needs more gravity 🚀"
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,cs,php,linux,wordpress,react,threejs,nextjs,tailwind,figma,vite,ps,ai,ae,pr,nodejs,flutter,express,nestjs,fastapi,laravel,mongodb,postgres,mysql,redis,firebase,supabase,gcp,aws,azure,docker,cloudflare,git,tensorflow,pytorch,opencv,sklearn,gitlab,postman,spring" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,cs,php,linux,wordpress,react,threejs,nextjs,tailwind,figma,vite,ps,ai,ae,pr,nodejs,flutter,express,nestjs,fastapi,laravel,mongodb,postgres,mysql,redis,firebase,supabase,gcp,aws,azure,docker,cloudflare,git,tensorflow,pytorch,opencv,sklearn,gitlab,spring,django" />
 
 ---
 
